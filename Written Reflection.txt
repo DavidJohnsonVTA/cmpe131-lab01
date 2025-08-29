@@ -1,0 +1,3 @@
+Written Reflection
+
+The use of branches allows for different individuals to work on the same code at the same time without see each others changes. Each branch is like a copy of the code so that each programmer can make changes before pushing final edits to the repository. Its a safe way for engineers to test and collaborate on code before making any final changes. If a program is already working, not using branches and changing the code in real time will lead to issues. Because no programmer writes perfect code the first time the use of branches allows for programming mistakes while editing while not effecting the final product until the new code is ready to be implemented. 
